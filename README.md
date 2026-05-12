@@ -1,16 +1,27 @@
 ## Hi there 👋
+Fadi Mohammed (kaizen) Software engineering student passionate about building maintainable, creative software and implementing physics into code, with a keen interest in aerospace-grade logic and game development.   
 
-<!--
-**Fadi-eclipse/Fadi-eclipse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Technical Skills
 
-Here are some ideas to get you started:
+Languages: JavaScript, Python, Java, C, SQL   
+Technologies: Node.js, Express.js, MongoDB, Flask, Git & GitHub   
+Core Strengths: Data Structures & Algorithms, OOP, Database Design, and API Development 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Featured Projects
+
+Void-Media ( https://void-media-lynj.onrender.com ):
+A full-stack social messaging platform built with Flask and MongoDB, featuring secure authentication.   
+Amazon Clone:
+A responsive e-commerce frontend implementing a custom cart and delivery tracking system.   
+C Utility Programs: 
+Systems developed for credit card validation and message encryption/decryption.   
+
+📈 Current Focus & Future Goals
+
+Advanced Logic: Merging software engineering principles with physics-based simulations for game development and technical modeling.
+Backend Mastery: Refining Node.js and API development skills.   
+Future Learning: Planning to master React and Advanced Java.   
+
+📫 Connect with me
+Email: fadi.kaizen777@gmail.com  
+GitHub: Fadi-eclipse   
