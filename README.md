@@ -4,7 +4,7 @@ Fadi Mohammed (kaizen) Software engineering student passionate about building ma
 🚀 Technical Skills
 
 Languages: JavaScript, Python, Java, C, SQL   
-Technologies: Node.js, Express.js, MongoDB, Flask, Git & GitHub   
+Technologies: Node.js, Express.js, MongoDB, Git & GitHub   
 Core Strengths: Data Structures & Algorithms, OOP, Database Design, and API Development 
 
 🛠️ Featured Projects
