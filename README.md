@@ -11,7 +11,9 @@ Core Strengths: Data Structures & Algorithms, OOP, Database Design, and API Deve
 
 Void-Media ( https://void-media-lynj.onrender.com ):
 A full-stack social messaging platform built with Flask and MongoDB, featuring secure authentication.   
-Amazon Clone:
+Void-Cast ( https://void-cast-one.vercel.app ):
+A full-stack content uplaoding platform built with Node.js and Cloudinary.   
+Amazon Clone ( https://js-shop-project.vercel.app ):
 A responsive e-commerce frontend implementing a custom cart and delivery tracking system.   
 C Utility Programs: 
 Systems developed for credit card validation and message encryption/decryption.   
